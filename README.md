@@ -296,8 +296,9 @@ The main objective of this project is to practice **C programming fundamentals**
 ## 👨‍💻 Author
 
 **Your Name**
-
-GitHub: `https://github.com/your-username`
+Ali Momin
+LinkedIn: `www.linkedin.com/in/ali-momin-241602252`
+GitHub: `https://github.com/alimomin002`
 
 ## 📄 License
 
